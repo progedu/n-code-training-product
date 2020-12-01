@@ -1,0 +1,13 @@
+* {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.bg-dark {
+    background: #973a3a;
+}
+.jumbotron {
+    background: #edded7;
+}
+.card-title {
+    font-weight: bold;
+    font-size: 1.25em;
+}
